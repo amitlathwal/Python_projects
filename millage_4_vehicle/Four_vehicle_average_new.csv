@@ -1,0 +1,41 @@
+Mileage,Manufactured,Engine_type,Transmission,Mostly_driven,Displacement,Way_of_driving,Average_Load,Weight
+23,14,Diesel,Manual,City,1250,Normal,1-2 members,1060
+13,18,Diesel,Manual,Mixed,1500,Normal,1-2 members,1290
+17,6,Petrol,Manual,City,800,Normal,3-4 members,700
+16,8,Petrol,Manual,City,1000,Normal,1-2 members,880
+16,15,Petrol,Manual,City,1400,Normal,1-2 members,1225
+18,21,Petrol,Automatic,Mixed,1200,Normal,1-2 members,960
+18,18,Petrol,Manual,City,1200,Normal,3-4 members,1100
+18,19,Diesel,Automatic,Mixed,1500,Normal,1-2 members,1290
+12,11,Petrol,Manual,Mixed,1200,Fast,1-2 members,1000
+17,19,Petrol,Manual,City,1200,Normal,1-2 members,1060
+22,15,Petrol,Manual,City,1400,Normal,1-2 members,1050
+23,11,Diesel,Manual,Mixed,1250,Normal,3-4 members,1060
+15,16,Petrol,Automatic,City,1498,Normal,3-4 members,1125
+18,19,Petrol,Manual,Mixed,1200,Normal,3-4 members,900
+20,1,Diesel,Manual,Mixed,1250,Normal,1-2 members,1060
+12,9,Petrol,Manual,Mixed,1197,Normal,1-2 members,900
+15,18,Petrol,Automatic,City,1400,Normal,1-2 members,1050
+22,9,Diesel,Manual,Highway,1250,Normal,1-2 members,1250
+18,20,Petrol,Manual,Mixed,1200,Normal,3-4 members,1050
+18,14,Petrol,Automatic,Mixed,1500,Normal,1-2 members,1125
+17,15,Petrol,Manual,Mixed,1200,Normal,more than 4,1075
+17,8,Petrol,Manual,Mixed,1100,Normal,3-4 members,820
+20,12,Diesel,Manual,Mixed,1498,Normal,1-2 members,1100
+18,15,Diesel,Manual,Mixed,1500,Normal,1-2 members,1290
+12,18,Petrol,Automatic,City,1200,Normal,1-2 members,1060
+18,18,Diesel,Manual,Highway,1498,Fast,3-4 members,1165
+21,13,Diesel,Manual,Mixed,1498,Fast,1-2 members,1125
+15,9,Petrol,Manual,Mixed,800,Normal,1-2 members,700
+15,20,Petrol,Manual,Mixed,1200,Normal,1-2 members,1050
+15,15,Diesel,Automatic,City,2000,Normal,1-2 members,1660
+9,12,Petrol,Automatic,Mixed,1800,Normal,1-2 members,1735
+12,16,Petrol,Manual,Mixed,1200,Fast,3-4 members,1090
+20,15,Diesel,Manual,Mixed,1498,Normal,3-4 members,1200
+20,11,Diesel,Manual,City,1400,Normal,1-2 members,1115
+12,15,Petrol,Manual,City,1198,Normal,1-2 members,1075
+15,17,Diesel,Manual,Mixed,1350,Fast,1-2 members,1126
+14,16,Petrol,Automatic,Highway,1200,Normal,3-4 members,960
+14,20,Petrol,Manual,City,1499,Normal,1-2 members,1125
+19,13,Diesel,Automatic,Mixed,1250,Normal,1-2 members,1060
+14,2,Diesel,Manual,Mixed,2179,Fast,more than 4,2400
